@@ -92,6 +92,7 @@ body div.card_order div.card_infos h1.card_title {
 }
 body div.card_order div.card_infos p.card_description {
   font-size: 0.9rem;
+  line-height: 21px;
   color: #7280a7;
 }
 body div.card_order div.card_infos h1.card_title, body div.card_order div.card_infos p.card_description {
@@ -138,7 +139,7 @@ body div.card_order div.card_infos button {
   font-weight: 700;
   padding: 0.7rem 0;
   color: #e0e8ff;
-  border-radius: 10px;
+  border-radius: 9px;
   cursor: pointer;
   outline: none;
   border: none;
@@ -155,6 +156,7 @@ body div.card_order div.card_infos a.card_payment_cancel {
   font-weight: 700;
   font-size: 0.9rem;
   margin-bottom: 0rem;
+  color: #1f2f56;
 }
 body div.card_order div.card_infos a.card_payment_cancel:hover {
   color: #1f2f56;
